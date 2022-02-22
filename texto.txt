@@ -1,9 +1,7 @@
 
-<<<<<<< HEAD
+
 hola mundo rosa
-=======
-hola mundo cruel
->>>>>>> 4abc0373785dadeba5ccea86a98cef98f65e4055
+
 
 adiós mundo
 
