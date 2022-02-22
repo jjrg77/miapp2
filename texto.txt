@@ -1,5 +1,6 @@
 
-adios mundo cruel
+hola mundo
+
 adiós mundo
 
 
@@ -10,4 +11,4 @@ linea z
 
 
 
-linea 1122
+linea 90
