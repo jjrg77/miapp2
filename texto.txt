@@ -1,9 +1,9 @@
 
-hola mundo, hoy hace frío
+hola, hoy hace frío
 adiós mundo
 
-linea 5
-linea6
+linea x
+linea y
 linea 7
 
 
