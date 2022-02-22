@@ -1,5 +1,5 @@
 
-hola, hoy hace frío
+hola mundo
 adiós mundo
 
 
@@ -10,4 +10,4 @@ linea 7
 
 
 
-linea 1122
+linea 90
