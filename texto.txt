@@ -2,10 +2,10 @@
 hola mundo, hoy hace frío
 adiós mundo
 
-linea 5
+linea 52
 linea6
-linea 7
+linea 4
 
 
 
-linea 11
+linea 1122
